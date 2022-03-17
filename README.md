@@ -16,5 +16,5 @@ Projeto Integrador  turma de Meio Ambiente DH - Predisão de geração fotovolta
 - [ ] Visualizações importantes:
 
 - predição de Radiação:
-      - com ML;
-      - por series temporais.
+      - [ ]  com ML;
+      - [ ]  por series temporais.
