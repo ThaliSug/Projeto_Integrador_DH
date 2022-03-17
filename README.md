@@ -6,7 +6,7 @@ Projeto Integrador  turma de Meio Ambiente DH - Predisão de geração fotovolta
 
 - [ ] Motivação do Projeto;
 
-- Limpeza de dados e tratamento de nulos;
+- [ ] Limpeza de dados e tratamento de nulos;
 
 - [ ] Datasets:
     - [ ] JSOn;
