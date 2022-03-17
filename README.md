@@ -21,6 +21,7 @@ Projeto Integrador  turma de Meio Ambiente DH - ☀️ Predisão de geração fo
 - [ ] Limpeza de dados e tratamento de nulos;
     
 - [ ] Visualizações importantes:
+        - [ ] funções de gráficos 
 
 - predição de Radiação:
   - [ ]  com ML;
